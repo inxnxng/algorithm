@@ -1,3 +1,5 @@
 # algorithm
 
-알고리즘 문제 풀어놓은 거 모아놓은 리스트
+알고리즘 코드 repository
+
+https://velog.io/@ntbij29/series/Algorithm-Study 에 코드와 코드 분석을 진행하였다.
